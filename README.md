@@ -13,7 +13,7 @@
   <a href="https://scholar.google.com/citations?user=AlQ_EUEAAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-Profile-green?style=flat&logo=google-scholar" alt="Google Scholar"/>
   </a>
-  <a href="https://github.com/modernTalker">
+  <a href="https://eng.mipt.ru/">
     <img src="https://img.shields.io/badge/Moscow%20Institute%20of%20Physics%20and%20Technology-Student-purple" alt="MIPT Student"/>
   </a>
 </p>
