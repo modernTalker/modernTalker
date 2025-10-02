@@ -68,13 +68,13 @@ All peer-reviewed or workshop papers (chronological order):
 
 4. **Shuffling Heuristic in Variational Inequalities: Establishing New Convergence Guarantees**  
    *D. Medyakov, G. Molodtsov, E. Grigoriy, E. Petrov, A. Beznosikov*  
-   **ICOMP 2024** — Submitted to *JOTA (Q1)*  
+   **ICOMP 2024** — Accepted to *JOTA (Q1)*  
    🏆 **1st Place, Neuroinformatics 2024**  
    📄 [Paper](https://openreview.net/pdf?id=V14SoT0m2q)
 
 5. **Sampling of Semi-Orthogonal Matrices for the Muon Algorithm**  
    *E. D. Petrov, G. V. Evseev, A. V. Antonov, A. S. Veprikov, N. A. Bushkov, S. V. Moiseev, A. N. Beznosikov*  
-   Submitted to *Doklady Mathematics (Q2)*  
+   Accepted to *Doklady Mathematics (Q2)*  
    📄 [Paper]
 
 6. **Full Transformer Analysis: Loss Landscape via Hessian-based Approach**  
