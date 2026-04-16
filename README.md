@@ -25,7 +25,11 @@
 ---
 
 > 🎓 B.S. in Applied Mathematics & Informatics @ [MIPT](https://mipt.ru/english/) (2022–2026)
+>
+> 🚀 Yandex Research Residency @ [YR](https://research.yandex.com/) (2025-2026)
 > 
 > 🎯 Data Science Track (MIPT & Yandex SDA, 2024–2026) @ [DS](https://thetahat.ru/) (2023-2026)
+>
+> 🌊 BRAIn Lab @ [MIRIAI](https://miriai.org/) (2024 - 2026)
 > 
 > 🧑‍🏫 Teaching Assistant: Algorithms, Data Structures, Scientific Studio
