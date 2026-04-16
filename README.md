@@ -1,6 +1,6 @@
 <!-- 
-  ✨ Egor Petrov — Machine Learning Researcher
-  Focus: Theoretical Deep Learning • Distributed Optimization • Pipeline Parallelism • Scaling Laws
+  ✨ Egor Petrov — Researcher
+  Focus: Theoretical Learning • Distributed Optimization • Pipeline Parallelism • Efficiency
 -->
 
 
@@ -18,17 +18,14 @@
 
 ## Research Interests
 
-- **Scaling Laws**: Empirical & theoretical analysis in pipeline and distributed settings; connections to loss landscape geometry (e.g., Hessian spectrum of Transformers)  
+- **Loss Landscape**: Empirical & theoretical analysis in pipeline and distributed settings; connections to loss landscape geometry (e.g., Hessian spectrum of Transformers)  
 - **Pipeline Parallelism**: Scheduling, memory optimization, and convergence guarantees under asynchrony  
-- **Theoretical Deep Learning**: Loss landscapes, Bayesian/probabilistic modeling, and applications to **Reinforcement Learning**  
-- **Optimization Methods**: Advancing **zeroth-order (ZO)** and **first-order** algorithms for LLMs, decentralized systems, and non-convex problems
+- **Optimization Methods**: Advancing **zeroth-order (ZO)** and **first-order** algorithms for LMs, decentralized systems, and non-convex problems
 
 ---
 
 > 🎓 B.S. in Applied Mathematics & Informatics @ [MIPT](https://mipt.ru/english/) (2022–2026)
 > 
-> 🎓 Yandex School of Data Analysis @ [YSDA](https://dataschool.yandex.com/) (2025-2026)
-> 
 > 🎯 Data Science Track (MIPT & Yandex SDA, 2024–2026) @ [DS](https://thetahat.ru/) (2023-2026)
 > 
-> 🧑‍🏫 Teaching Assistant: Algorithms, Data Structures, Intro to AI
+> 🧑‍🏫 Teaching Assistant: Algorithms, Data Structures, Scientific Studio
