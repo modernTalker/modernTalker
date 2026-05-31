@@ -16,8 +16,8 @@
 ## Research Interests
 
 - **Loss Landscape**: Empirical & theoretical analysis in pipeline and distributed settings; connections to loss landscape geometry (e.g., Hessian spectrum of Transformers)  
-- **Pipeline Parallelism**: Scheduling, memory optimization, and convergence guarantees under asynchrony  
-- **Optimization Methods**: Advancing **zeroth-order (ZO)** and **first-order** algorithms for LMs, decentralized systems, and non-convex problems
+- **One-Step delayed Optimization**: Scheduling, memory optimization, and convergence guarantees under asynchrony  
+- **Zeroth- and First-Order Methods**: Advancing **zeroth-order (ZO)** and **first-order** algorithms for smooth, non-convex problems
 
 ---
 
